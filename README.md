@@ -10,7 +10,7 @@ Trước khi thực hiện, bạn cần có kiến thức cơ bản về:
 2.  **Express.js** – Framework để xây dựng RESTful API.
 3.  **React.js** – Frontend hiện đại, kết hợp TypeScript để tăng tính an toàn kiểu dữ liệu.
 4.  **MongoDB** – Cơ sở dữ liệu NoSQL, dễ mở rộng.
-5.  **REST API** – Giao tiếp giữa frontend và backend.  
+5.  **REST API** – Giao tiếp giữa frontend và backend.
 Nếu bạn đã quen với các công nghệ trên thì việc triển khai dự án sẽ thuận lợi hơn rất nhiều.
 
 # Cài đặt phụ thuộc
