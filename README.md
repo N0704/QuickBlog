@@ -20,13 +20,13 @@ Nếu bạn đã quen với các công nghệ trên thì việc triển khai d�
 
 ## Env Variables
 
-Trong file server/.env, điền thông tin phù hợp với dịch vụ bạn sử dụng (ví dụ: MongoDB Atlas, ImageKit, DeepSeek API…).
+Trong file `server/.env`, điền thông tin phù hợp với dịch vụ bạn sử dụng (ví dụ: MongoDB Atlas, ImageKit, DeepSeek API…).
 
 ## Tính năng chính của dự án
 
-**Đăng ký/đăng nhập người dùng** (JWT Authentication).
-**Quản lý bài viết:** tạo, chỉnh sửa, xóa, lưu nháp.
-**Tích hợp AI (DeepSeek)** gợi ý ý tưởng, hỗ trợ viết nội dung hoặc tóm tắt văn bản.
-**Xử lý hình ảnh với ImageKit:** upload ảnh, resize, tối ưu tốc độ tải.
-**Bình luận và tương tác:** cho phép người dùng thảo luận dưới bài viết.
-**Dashboard quản trị:** quản lý người dùng, thống kê bài viết.
+**Đăng ký/đăng nhập người dùng** (JWT Authentication).  
+**Quản lý bài viết:** tạo, chỉnh sửa, xóa, lưu nháp.  
+**Tích hợp AI (DeepSeek)** gợi ý ý tưởng, hỗ trợ viết nội dung hoặc tóm tắt văn bản.  
+**Xử lý hình ảnh với ImageKit:** upload ảnh, resize, tối ưu tốc độ tải.  
+**Bình luận và tương tác:** cho phép người dùng thảo luận dưới bài viết.  
+**Dashboard quản trị:** quản lý người dùng, thống kê bài viết.  
